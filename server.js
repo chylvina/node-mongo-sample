@@ -3,7 +3,7 @@ var moment = require('moment');
 var mongoose = require('mongoose');
 
 // Constants
-var PORT = 80;
+var PORT = 4000;
 
 // App
 var app = express();
